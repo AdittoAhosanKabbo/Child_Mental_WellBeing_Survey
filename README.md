@@ -19,6 +19,16 @@ The study explores how family environment, family structure, screen exposure, an
 
 <br>
 
+---
+
+## Project Gallery
+
+<p align="center">
+  <img src="https://github.com/AdittoAhosanKabbo/Child_Mental_WellBeing_Survey/blob/main/Assets/data%20collection.png?raw=true" alt="Data Collection Field Work" width="50%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-right: 2%;">
+  <img src="https://github.com/AdittoAhosanKabbo/Child_Mental_WellBeing_Survey/blob/main/Assets/data%20entry.png?raw=true" alt="Team Data Entry Session" width="40%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</p>
+
+---
 ## Repository Files
 
 *Click on a document cover or its link below to view the file directly:*
@@ -105,11 +115,6 @@ To understand how family environment and family structure are connected with chi
 
 ---
 
----
-
-
-
----
 
 ## Methods Used
 
@@ -158,14 +163,23 @@ A caring, calm, emotionally safe, and learning-friendly home environment may pla
 
 ## Academic Field Survey Project
 
-This project was prepared as a group research project under the **Department of Statistics, Pabna University of Science and Technology (PUST)**.
-
+<p>
+  This project was prepared as a <strong>group research project</strong> under the 
+  <strong>Department of Statistics, Pabna University of Science and Technology (PUST)</strong>, 
+  with academic supervision from 
+  <strong>
+    <a href="https://pust.ac.bd/academic/departments/dept_teachers/dept_teachers_profile/100038">
+      Dr. Md. Shamim Reza
+    </a>
+  </strong>, 
+  Professor, Department of Statistics, PUST.
+</p>
 ### Survey Group Members
 
 | Name | Role / Contribution |
 | :--- | :--- |
 | [**Aditto Ahosan Kabbo**](https://github.com/AdittoAhosanKabbo) | Study Lead, Questionnaire Design, Data Analysis & Report Documentation. |
-| [**Md. Rifat Hassan Shakil**](https://github.com/rifat-hasan-shakil) | Questionnaire Development, Planning & Presentation |
+| [**Md. Rifat Hassan Shakil**](https://github.com/rifat-hasan-shakil) | Questionnaire Development, Planning , Analysis & Presentation |
 | **K. M. Sumaiya Akter** | Data Collection & Data Entry |
 | **Md. Abu Hanif** | Data Collection & Data Entry |
 | **Joyaria Tasnim** | Data Collection & Data Entry |
@@ -173,5 +187,5 @@ This project was prepared as a group research project under the **Department of 
 ---
 
 <div align="left">
-<sub>Analysed By Group | © 2026 Dept. of Statistics, PUST</sub>
+<sub> © 2026 Dept. of Statistics, PUST</sub>
 </div>
